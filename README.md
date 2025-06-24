@@ -21,6 +21,7 @@ Things to finish before I'm 6 feet under
 
 ## Programming
 * Loxel
+* AI CoArtist
 
 ## Maker Projects
 * Tomfoolery - portable server rack
