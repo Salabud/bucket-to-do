@@ -3,6 +3,8 @@ Things to finish before I'm 6 feet under
 
 🧩 : Started
 
+🦐 : Paused
+
 🦴 : Next up
 
 🪲 : Done (Half-assed)
@@ -24,7 +26,7 @@ Things to finish before I'm 6 feet under
 * Album | Vinegar Does Expire 🧩
 
 ## Games
-* Train of Thought
+* Train of Thought 🦐
 * Salamancer
 
 ## Programming
