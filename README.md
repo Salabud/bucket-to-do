@@ -20,7 +20,7 @@ Things to finish before I'm 6 feet under
 * Salamancer
 
 ## Programming
-* Loxel
+* ~~Loxel~~ 🔒
 * AI CoArtist
 
 ## Maker Projects
