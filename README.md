@@ -33,6 +33,7 @@ Things to finish before I'm 6 feet under
 * ~~Loxel~~ 🪲
 * Hand tracking 🧩
 * AI CoArtist
+* Portfolio website 🧩 
 
 ## Maker Projects
 * Tomfoolery - portable server rack 🧩
