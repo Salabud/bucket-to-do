@@ -46,6 +46,7 @@ Things to finish before I'm 6 feet under
 * 2000's paint UI mirror
 * Some sort of synth/instrument
 * Bean Bag+
+* Memento Recorder
 
 
 
