@@ -48,6 +48,7 @@ Things to finish before I'm 6 feet under
 * Bean Bag+
 * Long ass balance lamp
 * Memento Recorder
+* Own garment
 
 
 
