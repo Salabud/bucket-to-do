@@ -13,7 +13,7 @@ Things to finish before I'm 6 feet under
 
 
 ## Art & Animation
-* Digital Art | Mariachi Splashart 🧩
+* Digital Art | Mariachi Splashart 🔔
 * Animation | Don Quixote / Vivemuertos (Azucar Morena)
 * Animation | Sea of formless time
 
