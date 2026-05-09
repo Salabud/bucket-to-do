@@ -51,6 +51,17 @@ Things to finish before I'm 6 feet under
 * Own garment
 * Portable library
 
+## Summer hobbies
+* Soap making
+* Avocado tree bonsai
+* Lock picking
+* Sewing
+* Hot pepper breeding
+* DJing
+* Clock restoration
+* Beer brewing
+* Skating
+* Birdwatching (gotta catch em all)
 
 
 
