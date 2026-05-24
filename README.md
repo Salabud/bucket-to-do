@@ -50,6 +50,7 @@ Things to finish before I'm 6 feet under
 * Memento Recorder
 * Own garment
 * Portable library
+* Juervos (Home Assistant)
 
 ## Summer hobbies
 * Soap making
