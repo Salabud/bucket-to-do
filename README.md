@@ -51,6 +51,7 @@ Things to finish before I'm 6 feet under
 * Own garment
 * Portable library
 * Juervos (Home Assistant)
+* Custom-made PC Chassis
 
 ## Summer hobbies
 * Soap making
