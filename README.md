@@ -52,6 +52,7 @@ Things to finish before I'm 6 feet under
 * Portable library
 * Juervos (Home Assistant)
 * Custom-made PC Chassis
+* Minecraft Vine Decoration
 
 ## Summer hobbies
 * Soap making
